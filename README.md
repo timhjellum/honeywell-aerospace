@@ -1,5 +1,5 @@
-# "case-study" #
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://app.netlify.com/projects/case-study/deploys)
+# honeywell---case-study #
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://app.netlify.com/projects/honeywell---case-study/deploys)
 
 
 
@@ -30,7 +30,7 @@ deliverable/
 
 ### How to build this app ###
 
-* Clone the repository [https://github.com/timhjellum/case-study](git clone https://github.com/timhjellum/case-study.git)
-* `cd "case-study`
+* Clone the repository [https://github.com/timhjellum/honeywell---case-study](git clone https://github.com/timhjellum/honeywell---case-study.git)
+* `cd honeywell---case-study`
 * `npm install`
 * `run npm start`
